@@ -1,6 +1,6 @@
 .container{
-  width: 100%;
-  height: 100%;
-  align-items: center;
+  border: 1px solid black;
+}
+.calci-app{
   border: 1px solid black;
 }
